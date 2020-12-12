@@ -23,7 +23,7 @@ git clone https://github.com/luxuns/zhaohuaxishi.git
 cd zhaohuaxishi
 ```
 
-然后打开 `zhaohuaxishi.txt` 文件即可
+然后打开 `zhaohuaxishi.txt` 文件即可。
 
 ## 贡献
 
