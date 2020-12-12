@@ -6,7 +6,8 @@
 
 ### 方法1：直接下载（推荐新手使用）：
 
-* [点击下载 txt 文件](https://github.com/luxuns/zhaohuaxishi/releases/download/20201212-1/zhaohuaxishi.txt)
+* [点击下载 txt 文件](https://github.com/luxuns/zhaohuaxishi/releases/download/20201212-2/zhaohuaxishi.txt)
+* [点击下载 Markdown 文件](https://github.com/luxuns/zhaohuaxishi/releases/download/20201212-2/zhaohuaxishi.md)
 
 ### 方法2：在线阅读（推荐新手使用）：
 
