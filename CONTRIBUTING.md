@@ -11,3 +11,5 @@
 1. Fork本存储库；
 1. 在自己的存储库上进行修改；
 1. [提出拉取请求](https://github.com/luxuns/zhaohuaxishi/compare)。
+
+我们希望有人能提供本书后记中的插图。
