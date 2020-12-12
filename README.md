@@ -8,12 +8,12 @@
 
 ### 方法1：直接下载（推荐新手使用）：
 
-[点击下载 txt 文件](https://github.com/luxuns/zhaohuaxishi/releases/download/20201212-1/zhaohuaxishi.txt)
+* [点击下载 txt 文件](https://github.com/luxuns/zhaohuaxishi/releases/download/20201212-1/zhaohuaxishi.txt)
 
 ### 方法2：在线阅读（推荐新手使用）：
 
-[点击阅读 txt 文件](https://github.com/luxuns/zhaohuaxishi/blob/master/zhaohuaxishi.txt)
-[点击阅读 Markdown 文件](https://github.com/luxuns/zhaohuaxishi/blob/master/zhaohuaxishi.md)
+* [点击阅读 txt 文件](https://github.com/luxuns/zhaohuaxishi/blob/master/zhaohuaxishi.txt)
+* [点击阅读 Markdown 文件](https://github.com/luxuns/zhaohuaxishi/blob/master/zhaohuaxishi.md)
 
 ### 方法3：通过 Git（推荐高手使用）：
 
