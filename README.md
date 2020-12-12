@@ -18,8 +18,10 @@
 
 Git是一种流行的分布式版本控制系统，自由、开源、免费。
 
-    git clone https://github.com/luxuns/zhaohuaxishi.git
-    cd zhaohuaxishi
+```bash
+git clone https://github.com/luxuns/zhaohuaxishi.git
+cd zhaohuaxishi
+```
 
 然后打开 `zhaohuaxishi.txt` 文件即可
 
