@@ -10,8 +10,7 @@
 
 ### 方法2：在线阅读（推荐新手使用）：
 
-* [点击阅读 txt 文件](https://github.com/luxuns/zhaohuaxishi/blob/master/zhaohuaxishi.txt)
-* [点击阅读 Markdown 文件](https://github.com/luxuns/zhaohuaxishi/blob/master/zhaohuaxishi.md)
+* [点击阅读](https://luxuns.github.io/zhaohuaxishi/)
 
 ### 方法3：通过 Git（推荐高手使用）：
 
