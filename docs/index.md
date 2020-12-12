@@ -1,6 +1,6 @@
 # 朝花夕拾
 
-[<u>**鲁迅作品 on GitHub** ***https://luxuns.github.io/***</u>](https://luxuns.github.io/)
+[<u><b>鲁迅作品 on GitHub <i>https://luxuns.github.io/</i></b></u>](https://luxuns.github.io/)
 
 ## 小引
 
