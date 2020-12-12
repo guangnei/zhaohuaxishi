@@ -1,5 +1,7 @@
 # 朝花夕拾
 
+作者：鲁迅
+
 [<u><b>鲁迅作品 on GitHub: <i>https://luxuns.github.io/</i></b></u>](https://luxuns.github.io/)
 
 ## 1.小引
