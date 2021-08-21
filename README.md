@@ -8,8 +8,6 @@
 
 ## 下载
 
-请仔细阅读此段。下面将是如何通过本存储库获取《朝花夕拾》全文的信息。
-
 ### 方法1：直接下载（推荐新手使用）：
 
 * [点击下载 txt 文件](https://github.com/guangnei/zhaohuaxishi/releases/download/20201212-2/zhaohuaxishi.txt)
