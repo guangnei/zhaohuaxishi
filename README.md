@@ -4,7 +4,7 @@
 
 ## 在线阅读
 
-***<https://guangnei.github.io/zhaohuaxishi/>***
+***<https://guangnei.github.io/zhaohuaxishi/zhaohuaxishi>***
 
 ## 下载
 
