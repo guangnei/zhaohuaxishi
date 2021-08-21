@@ -10,7 +10,6 @@
 
 ### 方法1：直接下载（推荐新手使用）：
 
-* [点击下载 txt 文件](https://github.com/guangnei/zhaohuaxishi/releases/download/20201212-2/zhaohuaxishi.txt)
 * [点击下载 Markdown 文件](https://github.com/guangnei/zhaohuaxishi/releases/download/20201212-2/zhaohuaxishi.md)
 
 ### 方法2：通过 Git（推荐高手使用）：
@@ -26,7 +25,7 @@ cd zhaohuaxishi
 
 ## 贡献
 
-请阅读 [CONTRIBUTING.md](CONTRIBUTING/) 了解详细信息。
+请阅读 `CONTRIBUTING.md` 了解详细信息。
 
 ## 作品作者
 
