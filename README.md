@@ -28,12 +28,8 @@ cd zhaohuaxishi
 
 ## 贡献
 
-请阅读 [CONTRIBUTING.md](CONTRIBUTING) 了解详细信息。
+请阅读 [CONTRIBUTING.md](CONTRIBUTING/) 了解详细信息。
 
 ## 作品作者
 
 - **鲁迅**
-
-## 版权
-
-请查看 <COPYRIGHT.txt> 获取详细信息。
