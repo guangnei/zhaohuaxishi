@@ -30,7 +30,7 @@ cd zhaohuaxishi
 
 请阅读 [CONTRIBUTING.md](CONTRIBUTING) 了解详细信息。
 
-## 作者
+## 作品作者
 
 - **鲁迅**
 
