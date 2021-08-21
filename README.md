@@ -1,4 +1,4 @@
-# 朝花夕拾
+# 自述文件
 
 这里存储着《朝花夕拾》全文。
 
@@ -28,7 +28,7 @@ cd zhaohuaxishi
 
 ## 贡献
 
-请阅读 [CONTRIBUTING.md](CONTRIBUTING.md) 了解详细信息。
+请阅读 [CONTRIBUTING.md](CONTRIBUTING) 了解详细信息。
 
 ## 作者
 
@@ -36,4 +36,4 @@ cd zhaohuaxishi
 
 ## 版权
 
-请查看 `COPYRIGHT.txt` 获取详细信息。
+请查看 <COPYRIGHT.txt> 获取详细信息。
