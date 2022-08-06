@@ -50,6 +50,11 @@ cd zhaohuaxishi
 
 > 作者的署名权、修改权、保护作品完整权的保护期不受限制。
 
+## 许可证
+
+[<img src="https://mirrors.creativecommons.org/presskit/icons/cc.png" alt="CC" width="48" />](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/) [<img src="https://mirrors.creativecommons.org/presskit/icons/by.png" alt="BY" width="48" />](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/) [<img src="https://mirrors.creativecommons.org/presskit/icons/nc-jp.png" alt="NC" width="48" />](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/) [<img src="https://mirrors.creativecommons.org/presskit/icons/sa.png" alt="SA" width="48" />](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/)  
+除 `zhaohuaxishi.md` 根据《中华人民共和国著作权法》进行许可外，本作品的其余部分均采用 [CC BY-NC-SA 3.0 CN](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/) 许可协议进行许可。
+
 ---
 
 **本项目不对因使用本项目及其文档而产生的任何后果负责。**
